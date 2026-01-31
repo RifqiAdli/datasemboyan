@@ -4,13 +4,25 @@
     "Gambar": "rbxassetid://12345678",
     "Sifat": "Sementara",
     "Status": "Aktif",
-    "Penjelasan": "Semboyan 1 adalah tanda yang diberikan untuk memberikan perintah tertentu kepada masinis."
+    "Penjelasan": "Semboyan 1 adalah semboyan sementara sebagai isyarat petugas dalam kondisi siap yang berupa PPKA atau petugas jaga berdiri tegak atau membawa bendera atau lampu semboyan (handsign) berwarna hijau (di malam hari) yang dijinjing sejajar paha petugas (tidak digerak-gerakkan).\nMenandakan bahwa jalur yang akan dilewati oleh kereta api berstatus aman, Semboyan 1 mengisyaratkan kereta api boleh berjalan seperti biasa dengan kecepatan yang telah ditetapkan dalam peraturan perjalanan.",
+    "updatedAt": "2026-01-31T12:15:44.365Z"
   },
   {
     "Nama": "Semboyan 2",
-    "Gambar": "rbxassetid://87654321",
+    "Gambar": "rbxassetid://12345678",
     "Sifat": "Sementara",
     "Status": "Aktif",
-    "Penjelasan": "Semboyan 2 merupakan tanda batas kecepatan pada jalur tertentu."
+    "Penjelasan": "Semboyan 2 adalah semboyan sementara berupa rambu berbentuk belah ketupat yang di tengahnya terdapat simbol angka yang berwarna kuning dengan latar belakang hitam dengan garis tepi kuning yang mengisyaratkan bahwa jalur kereta api yang akan dilewati memiliki batas kecepatan sesuai dengan simbol angka yang ditunjukkan dikali 10 (misal: 6, berarti 60 kilometer per jam (37 mph)), dan kereta api yang melewatinya harus menyesuaikan lajunya sesuai dengan batas kecepatan (taspat) maksimal yang ditunjukkan olehnya.",
+    "updatedAt": "2026-01-31T12:15:44.365Z"
+  },
+  {
+    "Nama": "Semboyan 2A",
+    "Gambar": "",
+    "Sifat": "Sementara",
+    "Status": "Aktif",
+    "Penjelasan": "Semboyan 2A adalah semboyan sementara yang berupa rambu berbentuk bulat berwarna kuning bertepi hitam, maupun petugas yang merentangkan satu bendera kuning atau handsign kuning di tangan kanannya. Mengisyaratkan bahwa jalur kereta api yang akan dilewati berstatus kurang aman, kereta api yang melewatinya harus berhati-hati dengan pembatasan kecepatan maksimal 40 kilometer per jam (25 mph)",
+    "id": "1769862023129-tevurpf5a",
+    "createdAt": "2026-01-31T12:20:23.129Z",
+    "updatedAt": "2026-01-31T12:20:23.129Z"
   }
 ]
