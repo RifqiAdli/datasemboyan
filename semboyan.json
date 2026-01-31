@@ -1,0 +1,26 @@
+[
+  {
+    "Nama": "Semboyan 1",
+    "Gambar": "rbxassetid://12345678",
+    "Sifat": "Sementara",
+    "Status": "Aktif",
+    "Penjelasan": "Semboyan 1 adalah tanda yang diberikan untuk memberikan perintah tertentu kepada masinis."
+  },
+  {
+    "Nama": "Semboyan 2",
+    "Gambar": "rbxassetid://87654321",
+    "Sifat": "Sementara",
+    "Status": "Aktif",
+    "Penjelasan": "Semboyan 2 merupakan tanda batas kecepatan pada jalur tertentu."
+  },
+  {
+    "Nama": "sdwad",
+    "Gambar": "",
+    "Sifat": "Sementara",
+    "Status": "Aktif",
+    "Penjelasan": "asdwa",
+    "id": "1769860643600-gzaqm5ia3",
+    "createdAt": "2026-01-31T11:57:23.600Z",
+    "updatedAt": "2026-01-31T11:57:23.600Z"
+  }
+]
